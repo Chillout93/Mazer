@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26206.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mazer", "Mazer\Mazer.csproj", "{0C0CC311-856D-4DFE-BA96-D46C8363BA16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mazer.Tests", "Mazer.Tests\Mazer.Tests.csproj", "{4F57BF2A-C735-44F7-93FC-55AA496CB313}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C0CC311-856D-4DFE-BA96-D46C8363BA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0CC311-856D-4DFE-BA96-D46C8363BA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0CC311-856D-4DFE-BA96-D46C8363BA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0CC311-856D-4DFE-BA96-D46C8363BA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F57BF2A-C735-44F7-93FC-55AA496CB313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F57BF2A-C735-44F7-93FC-55AA496CB313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F57BF2A-C735-44F7-93FC-55AA496CB313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F57BF2A-C735-44F7-93FC-55AA496CB313}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
